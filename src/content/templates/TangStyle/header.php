@@ -51,8 +51,8 @@ require_once View::getView('module');
                     <li><a href="http://www.google.com/ig/add?feedurl=<?php echo BLOG_URL; ?>rss.php" rel="external nofollow" target="_blank">订阅到 iGoogle</a></li>
                     </ul>
                 </li>
-                <li><a href="http://t.qq.com/liuhaotian0520" rel="external nofollow" target="_blank"><i class="iconfont">&#468;</i>新浪微博</a></li>
-                <li><a href="http://weibo.com/u/1597089980" rel="external nofollow" target="_blank"><i class="iconfont">&#469;</i>腾讯微博</a></li>
+                <li><a href="http://weibo.com/u/2530532521" rel="external nofollow" target="_blank"><i class="iconfont">&#468;</i>新浪微博</a></li>
+
             </ul>
         </li>
     </ul>
