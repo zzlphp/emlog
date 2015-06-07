@@ -7,8 +7,8 @@ if(!defined('EMLOG_ROOT')) {exit('error!');}
 
 
 <footer>
-	Powered by <a href="http://www.emlog.net" title="采用emlog系统">emlog</a><br/>
-	移植 by <a href="http://blog.wdyun.cn" title="goodstudy">goodstudy</a> 原作 by <a href="https://luolei.org" title="罗磊">罗磊</a><br/>
+
+
 	<a href="http://www.miibeian.gov.cn" target="_blank"><?php echo $icp; ?></a> <?php echo $footer_info; ?>
 	<?php doAction('index_footer'); ?>
 </footer>
