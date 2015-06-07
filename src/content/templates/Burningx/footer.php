@@ -7,7 +7,7 @@ if(!defined('EMLOG_ROOT')) {exit('error!');}
 
 
 <div class="foot">
-    <?php echo $footer_info; ?><br>
+    <p class="muted" style=''>Powered by <a href="http://www.emlog.net">emlog</a> | <a href="http://www.miibeian.gov.cn" target="_blank"><?php echo $icp; ?></a><br>Theme by <a href="http://www.ipy8.com">BurningX</a>.<br><?php echo $footer_info; ?><br>
     <?php doAction('index_footer'); ?>
     </p>
     </div>
