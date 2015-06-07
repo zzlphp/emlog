@@ -19,10 +19,9 @@
 </div>
 <div style="clear:both;"></div>
 <div id="footer">
-<p>Powered by <a href="http://www.emlog.net" title="emlog <?php echo Option::EMLOG_VERSION;?>">emlog</a> |
+<p>
 <a href="http://www.miibeian.gov.cn" target="_blank"><?php echo $icp; ?></a></p>
-<p>Theme by <a href="http://tangjie.me" title="产品经理@唐杰" target="_blank">TangStyle</a>.
-And Transplant By <a href="http://ihaotian.me" title="Haotian" target="_blank">Haotian</a>.</p>
+<p></p>
  <?php echo $footer_info; ?>
 <?php doAction('index_footer'); ?>
 </div>
